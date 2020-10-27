@@ -80,6 +80,7 @@
     height: 40px;
     background-color: #eee;
     position: relative;
+    bottom: 10px;
     line-height: 40px;
     display: flex;
 

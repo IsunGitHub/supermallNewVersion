@@ -60,7 +60,6 @@
   import SwiperItem from 'components/common/swiper/SwiperItem'*/
 
 
-
   export default {
     name: "Home",
     components: {
